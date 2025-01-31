@@ -2,12 +2,13 @@
 Implemented and optimized a CNN model using PyTorch for image classification on the CIFAR-10 dataset. Experimented with various network structures and hyperparameter configurations to enhance classification accuracy, reporting results and insights from experiments.
 
 ## Features
-- Feature 1
-- Feature 2
+CNN-based image classification
+Hyperparameter tuning and optimization
+Performance evaluation and insights
 
 ## Technologies Used
-- Python
-- PyTorch
+Python
+PyTorch
 
 ## Installation
 ```bash
